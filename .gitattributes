@@ -1,2 +1,5 @@
 nijmegen_all_stations.csv filter=lfs diff=lfs merge=lfs -text
 nijmegen_haven_2022-2024.csv filter=lfs diff=lfs merge=lfs -text
+Mill2.csv filter=lfs diff=lfs merge=lfs -text
+Mill3.csv filter=lfs diff=lfs merge=lfs -text
+Mill4.csv filter=lfs diff=lfs merge=lfs -text
